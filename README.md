@@ -18,7 +18,7 @@ The project uses evolutionary principles such as **selection**, **crossover**, a
   - Tkinter-based GUI for visualizing the best solution.
 
 - **Genetic Operators**:
-  - **Tournament Selection** and **Roulette Selection** for parent choice.
+  - **Tournament Selection** for parent choice.
   - Single-point crossover to create offspring.
   - Mutation flips cells based on population conditions.
 
